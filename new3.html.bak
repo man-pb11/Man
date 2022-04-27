@@ -1,0 +1,15 @@
+<html>
+<body>
+<p>huihrie</p>
+<script>
+ var str='apple Red apple 'orange''green'avocado';
+ 
+ var f=/^a/g;
+ console.log(str.match(f));
+ var g=/o$/g;
+ console.log(str.match(g));
+</script>
+
+ </body> 
+ 
+ </html>
